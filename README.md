@@ -1,26 +1,40 @@
 # Hangman
 
-NavLink Proxy와 Smart Links를 사용한 적대적 AI 구현
+Cortex-M0 MCU NUC130과 LCD, 블루투스 통신, 서보모터를 활용한 행맨 게임 
 
-AI가 상황에 따라 오브젝트를 파괴할 수 있고 지형을 올라갈 수 있는 행동 방식을 만들기 위해 연구
-
-
- - 엔진 : Unreal Engine 5.2.1
- - 제작기간 : 2023.04.20 ~ 2023.11.23 
+ - 제작기간 : 2022.05.11 ~ 2022.06.29 
  - 개발규모 : 1인개발
+
+![image](https://github.com/snujing/Hangman/assets/57716676/8c83cbda-ec00-461e-881d-280561cb7e7d)
+
+
 
 
 ## 데모 동영상
 
 
 
-## [AI] 전투 상태
 
-플레이어가 전투상태라면 AI도 전투 상태로 전환 / 대치 상태에서 주기적으로 공격을 시도
 
-대치 상태는 AI가 플레이어와 마주보며 거리를 유지
+## LCD
 
-공격을 실행하면 플레이어에게 다가가 1회 공격을 시도
+![image](https://github.com/snujing/Hangman/assets/57716676/071d6aeb-3555-4560-96f1-073c47059b34)
 
-플레이어가 먼저 공격에 성공하면 AI는 피격 모션과 공격 실패로 다시 대치 상태에 돌입
+
+
+
+## 서보모터
+
+
+![image](https://github.com/snujing/Hangman/assets/57716676/6e11daf2-6442-4230-adc9-41d2316a53ce)
+
+
+
+
+## Bluetooth
+
+
+![image](https://github.com/snujing/Hangman/assets/57716676/5a372c60-627f-4331-8320-7f2c4af72cc4)
+
+
 
