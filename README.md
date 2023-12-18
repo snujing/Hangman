@@ -12,8 +12,7 @@ Cortex-M0 MCU NUC130과 LCD, 블루투스 통신, 서보모터를 활용한 행�
 
 ## 데모 동영상
 
-
-
+[![Hangman Game Video](https://i9.ytimg.com/vi_webp/yxNORV63JCo/mq2.webp?sqp=CKD7gKwG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gRigqMA8=&rs=AOn4CLA9hI1OLUFENE4ERU0CAvXKw8e4LA)](https://youtu.be/yxNORV63JCo)
 
 
 ## LCD
